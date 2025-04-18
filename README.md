@@ -8,7 +8,7 @@ Desde que concluí o ensino médio, me apaixonei pelo mundo da tecnologia e deci
 Atualmente, estou cursando Ciência da Computação na "[UFRGS](https://www.linkedin.com/school/ufrgs/posts/?feedView=all)" 🧠 e trabalho como estagiário de desenvolvimento na "[ADP Brazil Labs](https://www.linkedin.com/company/adpbrazillabs/posts/?feedView=all)", onde coloco em prática tudo o que venho aprendendo em frontend e backend 🚀.
  Sou fascinado por tudo que envolve tecnologia, programação e inovação, e gosto de compartilhar meus projetos e aprendizados nas redes:
 
-🔗 "[LinkedIn](www.linkedin.com/in/eduardo-lima-ti)"
+🔗 "[LinkedIn](https://www.linkedin.com/in/eduardo-lima-ti/)"
 
 💻 "[GitHub](https://github.com/eduardo-lima-freitas)"
 
