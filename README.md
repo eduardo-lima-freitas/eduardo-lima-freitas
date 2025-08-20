@@ -59,18 +59,6 @@ Sempre em busca de novos desafios, aprendizados e conexões!
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-
-
-
-    
-<img 
-    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
@@ -79,11 +67,19 @@ Sempre em busca de novos desafios, aprendizados e conexões!
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="nodejs" 
+    title="nodejs"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs" 
+/>
+<img 
+    align="left" 
+    alt="spring" 
+    title="spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo" 
 />
 <img 
     align="left" 
@@ -93,15 +89,6 @@ Sempre em busca de novos desafios, aprendizados e conexões!
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
 <br/>
 <br/>
 
