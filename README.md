@@ -89,6 +89,24 @@ Sempre em busca de novos desafios, aprendizados e conexões!
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" 
+/>
+
+<img 
+    align="left" 
+    alt="Mongodb" 
+    title="Mongodb"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo" 
+/>
 <br/>
 <br/>
 
