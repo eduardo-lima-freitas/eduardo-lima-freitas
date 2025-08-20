@@ -124,7 +124,7 @@ Sempre em busca de novos desafios, aprendizados e conexões!
 </p>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/893c3d72-0457-49fe-97a9-a82f9b6d622c" width="300px" />
+<img src="https://github.com/user-attachments/assets/893c3d72-0457-49fe-97a9-a82f9b6d622c" width="350px" />
 <br/>
 </div>
 
@@ -132,7 +132,7 @@ Sempre em busca de novos desafios, aprendizados e conexões!
     <h1>📁 Projetos & Atividades</h1>
     <ul>
       <li><strong>Projeto 1:</strong> Sistema de blog com React + JavaScript</li>
-      <li><strong>Projeto 2:</strong> Aplicação de controle financeiro em Next.js</li>
+      <li><strong>Projeto 2:</strong> Aplicação de API usando API Rest com node.js</li>
       <li><strong>Projeto 3:</strong> Portfólio pessoal responsivo</li>
       <li><strong>Atividade extra:</strong> Contribuições em projetos open source no GitHub</li>
     </ul>
